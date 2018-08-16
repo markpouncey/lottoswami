@@ -1,0 +1,2 @@
+# lottoswami
+android test game
